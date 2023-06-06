@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/macaron2.png" width="300">
+    <img src="images/macaron2.png" width="200">
 </div>
 
 # The French Ball
